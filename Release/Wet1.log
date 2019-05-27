@@ -1,0 +1,10 @@
+﻿  sim_core.cpp
+  sim_main.c
+sim_main.c(17): warning C4101: 'pipeStageState': unreferenced local variable
+  Generating code
+  9 of 36 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Wet1.vcxproj -> C:\Users\Daher\Desktop\Technion\semester6\Computer Arch\046267-comp-arch-hw1\Wet1\Release\Wet1.exe
+  Wet1.vcxproj -> C:\Users\Daher\Desktop\Technion\semester6\Computer Arch\046267-comp-arch-hw1\Wet1\Release\Wet1.pdb (Full PDB)
